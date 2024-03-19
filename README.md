@@ -1,5 +1,7 @@
 # Estudos Firebase
 
+![Logo do projeto](.github/assets/LogoDoProjeto.png)
+
 ## Firestore Database
 ### Cloud Firestore
 
@@ -33,4 +35,6 @@ const docRef = doc(db, "nomeDoDoc", "idDoDoc")
 
 onSnapshot(docRef, (doc) => {
 	const data = doc.data();
-}
+})
+```
+![Snapshot (Realtime) - Projeto Expo with Firebase ](.github/assets/onSnapshotRealtimeObserver.png)

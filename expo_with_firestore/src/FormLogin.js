@@ -1,13 +1,9 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import {
-  View,
   Text,
-  StyleSheet,
   TouchableOpacity,
   TextInput,
   Image,
-  KeyboardAvoidingView,
-  Platform,
   ScrollView,
 } from "react-native";
 import { auth } from "./services/firebaseConfig";
