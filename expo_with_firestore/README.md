@@ -1,4 +1,4 @@
-![Projeto Expo with Firebase  - Video](../.github/assets/firebase.mp4)
+[![Projeto Expo with Firebase  - Video](../.github/assets/firebase.mp4)](https://github.com/EmmanuellaAlbuquerque/estudos-firebase/assets/57198678/bc69906f-a0c1-4369-b776-fc432980b804)
 
 ### Firebase Authentication
 - [x] createUserWithEmailAndPassword
